@@ -7,5 +7,5 @@ for (var i = 1; i < a.length; i++) {
         max = a[i]; // Update max if the current element is greater
     }
 }
-
 console.log("The biggest number is:", max);
+
