@@ -8,4 +8,3 @@ for (var i = 1; i < a.length; i++) {
     }
 }
 console.log("The biggest number is:", max);
-
